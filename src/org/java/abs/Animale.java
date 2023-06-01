@@ -1,4 +1,4 @@
-package org.lessons.java.astratta;
+package org.java.abs;
 
 public abstract class Animale {
 	
